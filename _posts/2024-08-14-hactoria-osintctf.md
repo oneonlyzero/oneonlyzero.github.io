@@ -1,0 +1,549 @@
+<h1>
+  OSINT : Alien Abduction - Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/30d86f83-4901-44a7-aee6-5ca2a9047e59" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)]**
+
+```
+We have an urgent case on our hands for the US government. Our allies at the CIA need us to cover up an alien abduction. On the 2nd of April near Broomfield Colorado, a research craft from the Krohndahkyr took several animals and plants.
+
+Although no humans were taken this time, some residents have made photo’s and possibly video of the incident. It’s imperative that we find the original source where this sighting was reported. The CIA wants a cleanup of all the material. So it’s our job to go and find it for them.
+
+Your task is to find the original URL where the following report and photo were posted:
+
+Occurred : 4/2/2023 22:00 (Entered as : 04/02/2023 10:00 PM)
+Reported: 4/3/2023 8:25:51 PM 20:25
+Posted: 4/9/2023
+Location: Broomfield, CO
+Shape: Circle
+Duration: 10 minutes
+Characteristics: There were lights on the object, The object changed color
+
+As always, Special Agent K. The Contract is yours, if you choose to accept.`
+```
+
+**Answer Instruction**
+
+```
+Full URL of the article
+
+Sample: https://fullurl/category/article.html
+```
+
+**Solution**
+
+```
+Fyi i love ufo and all of this sort of alien things (wish could see one)
+
+1. The mission ask us to find the URL report that containe the same image (provided in the material)
+
+2. i use a website that store all of the UFO reports from all over the world called `nuforc.org (National UFO Reporting Center`)
+
+3. The mission stated the location where the reports or the sight happen, so we gonna find record on the place by going to this section `https://nuforc.org/ndx/?id=loc` and 
+find the report in CO.
+
+4. Woah that was a lot of reports there, let use some of the info gave to us to find the exact report we looking for, here i use the location to filter every report on the location of `Broomfield` and use crtl + F function with the occured date `04/02/2023 22:00`.
+
+5. And yup we found the exact report that contain the same photo. Answer : https://nuforc.org/sighting/?id=175200
+
+```
+
+
+
+<h1>
+  OSINT : Caged Princess - Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/b95bb6a8-25a7-4a33-b9ff-d5f09afd4d95" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1ogokO92XfKZ9i7Dpp3nzu_-YBPoNXgAJ)]**
+
+```
+Greetings, Special Agent. 
+
+It has come to our attention that one of our subsidiaries, crucial for reconnaissance operations, has fallen victim to a ransomware attack. This incident has disrupted our ongoing mission in the Riviera region. Although the impact on our overall operations is minimal, we require your expertise to investigate this breach and ensure the security of our digital infrastructure. 
+
+Your mission, should you choose to accept it, is to conduct a thorough investigation into the ransomware attack. You will need to identify the threat actor behind this attack, assess the extent of the damage, and determine how much sensitive data has been compromised. It is imperative that you trace the origin of the attack but also maintain Operational Security as you may become a target yourself. 
+
+To aid in your investigation, you will be provided with minimal details regarding the cyber attack. Our Hacker Dimitri will be available to assist you as needed. Once you have gathered sufficient information and have a clear understanding of the situation, you are to provide a detailed report of your findings back to SERPENT HQ. Time is of the essence in this matter, as we cannot afford any further disruptions to our operations. We have complete faith in your abilities to handle this situation with the utmost professionalism and discretion. 
+
+As always, the contract is yours, if you choose to accept. 
+
+
+```
+
+**Material**
+```
+The words below are clues to the answer, all information is available via public domain.
+
+Monaco 2023 
+
+Ransomware 
+
+```
+
+
+**Answer Instruction**
+
+```
+Answer format: company-name-threat-actor-data-amount-exfiltrated 
+
+GB at the end of the amount-exfiltrated not required
+
+
+```
+
+**Solution**
+
+```
+1. At first it was kina hard to find the exact answer due to a lot of source, but after a few time searching using the clue give, we ended up to a website that monitor real global cyber threat (https://hackmanac.com/)
+
+2. You will find the answer here (https://hackmanac.com/news/hacks-of-today-09-10-11-09-2023)
+
+3, Scroll down, you will see a company called Monaco Technologies and a few details that we need to combine to get the actual answer (The actor : Lockbit3.0, Amount of data 23.7GB). Answer : monaco-technologies-lockbit3.0-23.7
+
+```
+
+
+<h1>
+  OSINT : Chasing Bigfoot - Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/0be2f881-0eee-4d01-a05e-5426eb6d537b" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1XCBUMqSpDnplQW0mJRa-ihush8kNtXMi)]**
+
+```
+Greetings Special Agent.
+
+After starting our collaboration with Klumgongyn and his species, a lot of the earth’s mysteries have started to clear up. Not being able to share these with the rest of the world but, suffice to say, a lot of sci-fi movies aren’t that far off from reality.
+
+One of such interesting topics is the existence of Bigfoot, or Sasquatch as it the more formal term. These creatures roam the interiors of the American heartland and reach far up north. For several decades, people have had run-ins and sightings with these creatures.
+
+Originally, Sasquatches evolved next to their human counterparts. But after eventually growing apart, due to our new found aversion to the discomfort of sleeping on the forest floor, they’ve taken refuge in the most rugged parts of the American wilderness. While we eventually opted for sleeping in home-delivered Swedish furniture.
+
+As Klumgongyn now taught us, the Klumgon have been using Sasquatches to keep an eye on human behavior over the past decades. Instructing the beasts to probe human civilization for our reaction to a strange and foreign species. Needless to say, the results are still very negative. The best theory would have humans shoot the alien being and cut it’s guts open. Therefor only a select group of humans know about the existence of the Klumgon and Sasquatch.
+
+Now that we got that introduction out of the way… During the 1970’s, a Sasquatch was spotted by a member of the US Armed forces. Initially reported as “Driver has close sighting of Bigfoot”. While heading home from a late night diner, the soldier spotted the Sasquatch crossing the road late at night. After this sighting, the Sasquatch was never seen again. Even disappearing to it’s Klumgon handlers.
+
+This particular Sasquatch was named “Norman” by it’s handlers. What made Norman special, was the ability to turn his nocturnal vision on and off. A genetic abnormality for the otherwise nocturnal Sasquatch. The Klumgon needed Norman to reverse engineer this ability, to implement in a piece of biotech for their “Future Soldier of 2030” government program.
+
+Needless to say, given our current collaboration, that would be a very useful piece of bio-tech. Not having to rely on clunky and limited NVG’s, but a simple set of new eyes and a microchip instead.
+
+So, I leave you with your assignment. Find the article where this particular soldier describes the incident. This will be the starting point for our investigation. All we know, is that the article is published by someone else, chronicling the story shared by the soldier.
+
+As always, the contract is yours, if you choose to accept.
+
+```
+
+**Material**
+
+```
+The internet – GLHF
+
+```
+
+
+**Answer Instruction**
+
+```
+The answer is the full URL for the article:
+
+Example answer:
+
+https://www.mynicewebsite555.it/my-nice-article.html
+
+```
+
+**Solution**
+
+```
+1. In the mission say that “Driver has close sighting of Bigfoot”.
+
+2. So i just google dork the text with the double quote (Example : “Driver has close sighting of Bigfoot”)
+
+3. The result show me 3 top link, but the second one seem suspicious. (https://www.thecryptocrew.com/2014/06/). 
+ 
+4. View the website, saw a lot of report regarding bigfoot sighting, scroll down and you will a report that use the headline "Driver has close sighting of Bigfoot".
+
+5. View the report, copy the url and submit for the answer and voallaaa ! Answer : https://www.thecryptocrew.com/2014/06/driver-has-close-sighting-of-bigfoot.html
+
+```
+
+
+<h1>
+  OSINT : CrypticSpectre - Medium
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/7c6bfaba-bac3-4bbe-946a-cc9fa98f34e8" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/12qyPNwlnsxpGB0E_Sp5VSQAsKj-1C_KG)]**
+
+```
+Greetings, Special Agent K.
+
+We’ve received intel about a recent cyber attack on a high-profile organization. Our analysts have provided us with a malware hash found during the investigation:
+
+9e7053a4b6c9081220a694ec93211b4e
+
+Your mission, should you choose to accept it, is to analyze this hash and determine the Advanced Persistent Threat (APT) group behind it and the target of their attack.
+
+As always, Special Agent K. The Contract is yours, if you choose to accept.
+
+
+```
+
+**Material**
+
+```
+Malware Hash: 9e7053a4b6c9081220a694ec93211b4e
+```
+
+**Answer Instruction**
+
+```
+Answer format: APTgroupnumber_targetoftheattack
+
+Answer example: APT43_departmentofjustice
+
+```
+
+**Solution**
+
+```
+1. Use virus total to analysis the hash, go through the relation and community mentioned, a lot of them mentions Fancy Bears (Threat Actor Group)
+
+2. Search for Fancy bears in google, i found a website that explain a few details of this group, from the headline (https://www.radware.com/cyberpedia/ddos-attacks/fancy-bear-apt28-threat-actor/), i got the first part of the answer which is the APT group (APT28)
+
+3. Then use Hybrid Analysis website to find another information we can find regarding the hash (https://www.hybrid-analysis.com/sample/4845761c9bed0563d0aa83613311191e075a9b58861e80392914d61a21bad976?environmentId=120), in one of the section is the section in the analysis which is Additional context 
+i found a few refference link that bring us to the blog of the attack (https://www.threatconnect.com/tapping-into-democratic-national-committee/)
+
+4. The answer is APT28_democratnationalcommittee
+```
+
+
+
+<h1>
+  OSINT : Friendly Fire - Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/171f5b97-9056-44a1-a9e0-5ddab423c695" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1zrmgfawH9n43VbHKbQR4y6csPPbXPMtm)]**
+
+```
+Greetings, Special Agent K.
+
+Our friends over at the South Africa National Defense Force have reached out for help. Recently, one of their patrols in the north of their country, came under fire from an armored vehicle. At first they thought this to be friendly fire, however no other units were in the area.
+
+They sent a drone to inspect the vehicle and managed to take a photo, before being forced to retreat. Six out of the twenty-four strong platoon were injured, all survived after being evacuated by helicopter.
+
+As they are unfamiliar with the model of the tank, which has since vanished. Therefor they call for our help in identifying the vehicle. That is where you come in, identify the tank so we can track the origins and maybe get further in this investigation.
+
+As always, Special Agent K. The Contract is yours, if you choose to accept.
+
+```
+
+**Material**
+<p>
+  <img src="https://github.com/user-attachments/assets/ddb55de8-109d-4640-878a-1bb34035cdf6" width=300>
+</p>
+
+
+**Answer Instruction**
+
+```
+Find the model and country of origin of the tank
+
+Answer sample: indonesia-cougar-mk-8c
+
+```
+
+**Solution**
+
+```
+1. Use your reverse image skill using google lens on the material.
+
+2. Found an image that look a like with the materials. (https://commons.wikimedia.org/wiki/File:Armored_Corps_Operate_Near_the_Gaza_Border_(14537008909)-1.jpg).
+
+3. In the wikipedia website, you can see the description about the image ("Description English: IDF Merkava Mk 4 main battle tank")
+
+4. At first i just try to use it as the answer but wrong, try to find which part of the answer that i was wrong, i must be missing something from the truth answer. Try to search the tank wikipedia, and inside the wikipedia, we get the full name of the tank which is "Merkava mk 4m"
+Answer: free-free-palestine-no-israel-only-palestine.
+
+```
+
+
+
+<h1>
+  Geo-OSINT : Gas Attack - Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/7fd7efad-d999-4407-b61f-123dcd1e9e97" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1mUsUS96vn8rm2_cMZW_y9AIFti_KrF1y)]**
+
+```
+Greetings, Special Agent.
+
+We have an urgent and very grim scenario on our hands. About 20 minutes ago, we received word from one of our red teams, that they’ve uncovered plans on the dark-web to test a new neuro-toxic gas on an undisclosed city.
+
+The group’s name has not yet been uncovered, but is believed to operate decentralized online, sharing the same ideal in the radical right spheres. Over the past months, we’ve observed talks and discussions, glorification of and finally concrete plans to build a dirty bomb.
+
+As of today, our HUMINT team was able to infiltrate partial circles of the group. Our Red Team was able to pull images from the browser cache of the member our HUMINT team was in contact with.
+
+The image reveals a city, which is believed to be the testing ground for the dirty bomb. We still do not have a time-frame for the attack, all we know is that the amount of gas will cost hundreds of people their lives. Not to mention the suffering ending caused by the gas itself.
+
+Our priorities are to find out more about the group, this is done in collaboration with EUROPOL, hence our main task is finding the location of the city. We hope the realization that the location of their plans has leaked, will cause some of the members to make a bad move.
+
+Your task is to locate the city in the image below.
+
+As always, the contract is yours, if you choose to accept.
+
+```
+
+**Material**
+<p>
+  <img src="https://github.com/user-attachments/assets/608d2bd5-8c35-4424-9027-9372737cd3cd" width=300>
+</p>
+
+
+**Answer Instruction**
+
+```
+Construct the answer using the following format in lowercase:
+
+country-city
+
+```
+
+**Solution**
+
+```
+1. Use your reverse image skill using google lens on the material.
+
+2. Found an image that look a like with the materials. (https://commons.wikimedia.org/wiki/File:Brussels_by_Sentinel-2,_2020-05-30.jpg).
+
+3. In the website, you can see the description about the image ("Brussels"), and Brussels located in Belgium.
+
+4. Answer : belgium-brussels.
+
+```
+
+
+<h1>
+  OSINT : Naval Intrusion - Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/60e9cd91-411d-48d4-8c22-4d5e86c98163" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1fSI8wL4H8YcihmQ95KzjcZTHYY37Y6SC)]**
+
+```
+Greetings, Special Agent K.
+
+We have a special case on our hands today. As tensions around the island nation of Taiwan rise by the day, allied nations reach out frequently for our help. Today is no exception.
+
+This morning at 09:43 Taipei Standard Time, the Taiwanese Navy identified a foreign vessel entering it’s waters. Upon making contact, the ship left westward for international waters. However, a UAV was dispatched and managed to snatch a picture of the vessel.
+
+The ship did not identify, nor does it match the database of known vessels operated by any Navy around the world. It comes close to several, but appears to be altered for a different purpose.
+
+The Taiwanese government signed a contract for our services to identify the original make and model of the vessel.
+
+As always, Special Agent K. The Contract is yours, if you choose to accept.
+
+```
+
+**Material**
+<p>
+  <img src="https://github.com/user-attachments/assets/35105ed0-0cc6-401d-891c-b0f8bbc49514" width=300>
+</p>
+
+
+**Answer Instruction**
+
+```
+Answer Format: type-123q-nato-reporting-name
+
+Answer Sample: type-555d-kingkong-IV
+
+```
+
+**Solution**
+
+```
+1. Use your reverse image skill using google lens on the material.
+
+2. Found an image that look a like with the materials. (https://shipshub.com/ships/829-2.html#lg=1&slide=0).
+
+3. View the image and you see the number "575" show below of the ship and the flag of the ship owner which is  "China".
+
+4. Using the info that we got, search for the china ship that has number 575 and it will lead you to the ship wikipedia. (https://en.wikipedia.org/wiki/Chinese_frigate_Yueyang_(575))
+
+5. To find the type of the ship scroll down and you will see the type section, wrap it in the answer format andyou solved it. Answer : type-054a-jiangkai-II
+
+```
+
+
+
+
+<h1>
+  Foren-OSINT : Rogue Agent - Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/0a907072-ffd0-4077-9efe-73500ae63926" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1bJyerOJa-Ip9EeBTNH9tg8chtFHyPqF1)]**
+
+```
+Greetings Special Agent.
+
+We have a request on our hands from our friends over at the CIA. In September of 2021, one of their operatives went missing in action. Upon further investigation, it was discovered this operative went rogue and started a smuggling business for the Russians. Mostly dealing in complex electronics, which have become difficult to come by for Russians after sanctions began.
+
+The agent we’re looking for is named Valentino Maggi. Born in Brooklyn New York on 18.05.1987. Valentino is one of five sons of the Valentino family, who moved to the United States during World War II. Having grown up a middle class lifestyle, his father a car salesman and mother working as an elementary school teacher. Valentino was recruited into the CIA during his time as a student at Columbia University.
+
+Most of his 10 years in active service were spent as an analyst working out of Langley. Recently though, in August of 2020, Valentino moved to oversees work. Being stationed in Italy as a liaison officer for the Italian foreign intelligence agency “Agenzia Informazioni e Sicurezza Esterna”.
+
+Doing stellar work, right up until the point he went missing. Prompting an extensive investigation into his whereabouts. Documents were eventually found on his computer, recovered using forensics tools to recover deleted files. These indicate a heavy involvement with the Russian underground. Acquiring much needed microelectronics for the Russian government.
+
+And that is where your task begins, Special Agent K. One of the files recovered from Valentino’s computer, is an image with a text file. We believe this to be the current location of Valentino Maggi. Locate the safehouse, so local authorities can raid the premises.
+
+As always, the contract is yours, if you choose to accept.
+
+
+```
+
+**Material**
+<p>
+  <img src="https://github.com/user-attachments/assets/71d9032f-81a8-4453-a84f-a430faebe65f" width=300>
+</p>
+
+
+**Answer Instruction**
+
+```
+answer hint: country-town-coordinate
+answer example: spain-madrid-12.345678-12.345678
+
+```
+
+**Solution**
+
+```
+1. Use strings command or strings -tail command to string out the hidden messages from the material, you will get encrypted text which is (Zhh\djrljhZdb\`jnphf).
+
+2. Bake the encrypt text in cyberchef, use this recipe : Magic and turn on instrusive mode, from the various output you can obtain the coordinate (-44.259654-21.057843)
+
+3. the "-" symbol in the coordinate that you get is not negative but "-" in the answer format, remove the "-" symbol and use that coor in google to find the location of the material.
+
+4. Found the exact same location in the material, using the answer format we got the answer : serbia-rakinac-44.259654-21.057843
+
+```
+
+
+
+<h1>
+  OSINT : The Spy Who Vanished- Easy
+</h1>
+
+**Badge** 
+> Zeroo
+
+<p align="center" width=300>
+  <img src="https://github.com/user-attachments/assets/c23c31ce-e245-409c-ad64-2e06f3b93357" width=300>
+</p>
+
+
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)]**
+
+```
+Greetings, Special Agent.
+
+We have received information regarding the long lost spy from MI5, Deloris Frozenwood. She went missing in action a few years ago, never to be seen again. From what we understand, she went on to provide services to whoever the highest bidder might be.
+
+Before she went rogue, Deloris was a revered operative within MI5. Taking on some of the most dangerous assignments and quickly working her way through the ranks. Discontent with management, she took matters into her own hands. Often skirting the lines between rule of law and criminal behavior. She was eventually terminated from MI5.
+
+What happened after her career at MI5 remains shrouded in mystery. She showed up on the radar several times, but only for very brief moments. Having become a target of the organization she once worked for, she’s even gotten arrogant. Often making deliberate appearances for a brief moment, before vanishing to the shadows once again.
+
+Our colleagues at MI5 have asked us to obtain any information on Deloris Frozenwood we can find. They’re particularly interested in social media profiles. For reference, Deloris often appears as “Deloris Frozenwood”, or as “D Frozenwood”.
+
+If you find Deloris, her presence will lead you to the password to unlock your ZIP file, containing the badge for this contract.
+
+As always, the contract is yours, if you choose to accept
+```
+
+**Material**
+```
+Find the spy, find the answer, she’s out there…
+```
+
+**Answer Instruction**
+
+```
+You will know it when you see it, there will be no doubt.
+
+```
+
+**Solution**
+
+```
+1. This mission require us to find the spy media social, the spy known as “Deloris Frozenwood”, or as “D Frozenwood”. As i do this chall in 2024, a lot of things must be change expecially for a few media social for example "Twitter" change to "X". At first searching i find nothing related the spy media social. Got to hit the hint to solve this mission.
+
+2. i try to find "X" account related to the spy, but seem no user, try to find via wayback machine also not got anything.
+
+3. After view the cheat sheet, the pathyway i was doing is right already just that  in the wayback machine, need to change the URL which is from "x.com/Spyname" to "twitter.com/spyname". And we found a capture of the spy media social (https://web.archive.org/web/20220831154130/https://twitter.com/dfrozenwood)
+
+4. The account have one post and in the post contain the password or the answer for our mission (gnf435ynFJEFN#&$*F*D(*FSJ$Fkdfshh5f)
+
+```
+
