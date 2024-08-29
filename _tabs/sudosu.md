@@ -4,15 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-An `IT Executive`
+Full Time `IT Executive`
 
-A `Cyber Security Enthusiast`
+Part Time `Cyber Security Enthusiast`
 
 An `OSINT & DFIR Lovers, Practicioner, Learner`
 
-M'sian `CTF Player` for [M53](https://m53.team/) 
-
-M53 `CTF Player` for [World Wide Union](https://ctftime.org/team/309480/)
+CTF Player for [M53](https://m53.team/)  & [World Wide Union](https://ctftime.org/team/309480/)
 
 
 ![ce5df72c35ebbe0be9388d6cc610f498](https://github.com/user-attachments/assets/33a3f399-96c6-4288-9481-d17aed6da60c)
