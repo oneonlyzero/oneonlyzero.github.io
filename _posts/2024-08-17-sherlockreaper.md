@@ -1,5 +1,5 @@
 ---
-title: SHERLOCKS: REAPER - Writeups
+title: SHERLOCKS REAPER - Writeups
 categories: [DFIR]
 tags: [sherlocks]
 image: /assets/thumbnails/reaper.jpg
