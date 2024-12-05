@@ -8,9 +8,9 @@ Full Time `IT Executive`
 
 Part Time `Security, DFIR and OSINT Dynamism`
 
-CTF Player for [M53](https://m53.team/)  & [RE:UN10N](https://x.com/reun10n)
+CTF Player for [M53](https://m53.team/members.html)  & [RE:UN10N](https://x.com/reun10n)
 
-Crew of [Hacktoria](https://ctf-team.hacktoria.com/)
+Crew of [Hacktoria](https://hacktoria.com/ctf-team/)
 
 
 ![ce5df72c35ebbe0be9388d6cc610f498](https://github.com/user-attachments/assets/33a3f399-96c6-4288-9481-d17aed6da60c)
