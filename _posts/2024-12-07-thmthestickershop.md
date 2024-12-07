@@ -1,8 +1,8 @@
 ---
-title: The Sticker Shop
+title: TRYHACKME - The Sticker Shop 
 categories: [TryHackMe]
 tags: [XSS,THM]
-image: /assets/thumbnails/thestickerhshop.jpg
+image: /assets/thumbnails/thestickershop.jpg
 ---
 
 Easy room created by [toxicat0r](https://tryhackme.com/r/p/toxicat0r). This rooms focus on the XSS vulnerabilitty. So if you guys want to try it, you can access the room [here](https://tryhackme.com/r/room/thestickershop).
