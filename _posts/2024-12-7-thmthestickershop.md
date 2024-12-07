@@ -2,7 +2,7 @@
 title: The Sticker Shop
 categories: [TryHackMe]
 tags: [XSS,THM]
-image: /assets/thumbnails/hacktoriactf.jpg
+image: /assets/thumbnails/thestickershop.jpg
 ---
 
 Easy room created by [toxicat0r](https://tryhackme.com/r/p/toxicat0r). This rooms focus on the XSS vulnerabilitty. So if you guys want to try it, you can access the room [here](https://tryhackme.com/r/room/thestickershop).
@@ -50,13 +50,11 @@ Easy room created by [toxicat0r](https://tryhackme.com/r/p/toxicat0r). This room
 
 ![image](https://github.com/user-attachments/assets/da47666c-25ad-4652-bedb-7b2a29e16cb1)
 
-> Here we can see in our local python server, that we got endoded `Base64` strings, if we decode it, we get source code of the index page. So this is mean that our payload works and this machine has the `XSS` vulnerabillity.
+> The machine respone was send to our local python server and we got endoded `Base64` strings from the response which if we decode it, we obtained the source code of the index page, just like our payload should do. This remark that our payload is working and the machine is facing `XSS` vulnerability. 
 
 ### Get The Flag. 
 
-> To get the flag, in the rooms description mentioned that the flag is located at `/flag.txt`. So im gonna use the same method as our test payload just now  which is to use reflect the responses to our local python server.
-
-> Since we know the location of the flag. Just need to change a little bit from our test payload which is to change the value in the `Fetch` function. Here is our new payload (ChatGPTable):
+> In the rooms description, author mentioned that the flag was located at `/flag.txt`. So using same method as our test payload, to reflect the responses from the machine to our local python server. but Since we know the location of the flag. We just need to do a little bit changes from our test payload and our new payload is ready to go. Here is the new payload :
 
 ```
 <script>
@@ -67,8 +65,7 @@ Easy room created by [toxicat0r](https://tryhackme.com/r/p/toxicat0r). This room
     });
 </script>
 ```
-
-> Look at the responses send to our local server and we get the flag.
+> Retrun back to our local python server, and as you can see. The machine reflected the text in the `\flag.txt` to our local server and we managed to get the flag.
 
 ![image](https://github.com/user-attachments/assets/52624075-942a-44dc-a7b3-5cc70b3e4cda)
 
