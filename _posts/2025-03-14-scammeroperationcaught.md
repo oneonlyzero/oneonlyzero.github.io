@@ -18,7 +18,7 @@ image: /assets/thumbnails/osmosisctf2024.png
 
 > Method used : Image Analyst, SOCMINT, Open Source Information Gathering, interrogation
 
-## WHAT MAKE THE JOB OFFER LOOKS LEGIT? 
+## WHAT MAKE THE JOB OFFER LOOKS PROMISSING?
 
 ### The Appoacher Account 
 
