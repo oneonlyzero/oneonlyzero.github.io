@@ -2,7 +2,7 @@
 title: Reveal Modelling Job Scam Operation With OSINT.
 categories: ['2025']
 tags: [OSINT, INVESTIGATION, SCAMMER]
-image: /assets/thumbnails/osmosisctf2024.png
+image: /assets/thumbnails/investigate.jpg
 ---
 
 ## Disclaimer 
