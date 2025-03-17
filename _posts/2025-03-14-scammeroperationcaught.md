@@ -1,24 +1,37 @@
 ---
-title: INVESTIGATE & CAUGHT FAKE MODELLING JOB OPERATION.
+title: Reveal Modelling Job Scam Operation With OSINT.
 categories: ['2025']
 tags: [OSINT, INVESTIGATION, SCAMMER]
 image: /assets/thumbnails/osmosisctf2024.png
 ---
 
+## Disclaimer 
+
+```
+1) All of the details and chat between the victim and scammer will be sensored due to privacy purpose.
+2) If the fake company name match with any legit companies or brand. Please contact me trought my email.  
+```
+
 ## SYNOPSIS
 
-> On 12/3/2025, my sister TikTok account was approached by someone that offered her a job to be a model for their new startup clothing brand companies that will release their first design in a few days. As fashion design and active tiktok user, being approached and offered to became a model of a clothing brand should be a good experience for. So she accept the offer and the conversation was bring foward into Telegram. My sister was busy with her voleyball training until she came home on 14/03. She told me everything the job offer and want me to verify if the job legit or not. And I caught their scam operation and got some plot twist in this cases that make it interesting to blog it.
+> On March 2025, one of my contact (Victim) TikTok account was approached by someone that offered her a job to be a model for their new startup clothing brand companies that will release their first design in a few days. As fashion design and active tiktok user, being approached and offered to became a model of a clothing brand should be a good experience for. So she accept the offer and the conversation was continued on Telegram. Luckily the victim was busy with her training so the conversation was drag for quite sometime until she met me. In this cases, she seeked for my help to make sure the job offer is legit and not some scamming operation (Include Plottwist) . So here is the step by step and method that I take to reveal the truth behind this operation. 
 
-### KEYWORD
+> Method used : Image Analyst, SOCMINT, Open Source Information Gathering, interrogation
 
-> To help your journey reading it, tet label the Fake Model Agents / Scammers as Scammers.
+## WHAT MAKE THE JOB OFFER LOOKS LEGIT? 
 
-## INVESTIGATION
+### The Appoacher Account 
+
+> The Approacher account using a profile picture (not sure if her own image)
+
+## INVESTIGATION 
 
 ### THE "NOT MAKE SENSE" PROCEDURE.
 
+#### The Approach Method 
+
 ```
-The fake company will send their new design to my sister after 2 days from she sign the job offers, at the same time the companies also want the picture of the model in 2 days for presentation. So they want the picture of my sister and they want to video call her and use the video call and edited from the video call.
+
 ```
 
 > First of all, to find a good model, you should do a face to face or physical interview to knowing each others, not just picking someone you just found in social media.
