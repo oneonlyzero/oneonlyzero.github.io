@@ -9,7 +9,7 @@ image: /assets/thumbnails/osmosisctf2024.png
 
 ```
 1) All of the details and chat between the victim and scammer will be sensored due to privacy purpose.
-2) If the fake company name match with any legit companies or brand. Please contact me trought my email.  
+2) If the fake company name match with any legit companies or brand. Please contact me through my email.  
 ```
 
 ## SYNOPSIS
