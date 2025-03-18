@@ -65,7 +65,7 @@ On the Business registration certificate, using the business registration number
 
 > From the image we can see the registrar in charge to sign the cert is "Name", but the approacher mentioned the company is new and just want to launch their first product in this year which is 2025. for you information, "Registrat name" contracted was end on september 2020, 5 years ago, the current registrar in charge was "new registrat name". How was the new built company and will launch first product have a 2020 and below business registration certificate. Business certification cert expired date in 5 years and need to be renew.
 
-#### II. STOLEN CLOTHS DESIGN POSTER. 
+### II. STOLEN CLOTHS DESIGN POSTER. 
 ```
 Remember the poster of the couples of design of their new launch, i do some analyze from the image and found a quite intresting found. 
 ```
@@ -79,14 +79,50 @@ Remember the poster of the couples of design of their new launch, i do some anal
 
 > The post was made on Mar 2024.
 
+### III. COMPANIES LOGO.
+```
+The profile picture of the company logo was blurry, so I decide to reverse image the logo
+```
+
+#### - LOGO OWNED BY SOMEONE ELSE. 
+> Found a reddit post that post the exact the same logo and the owner mentioned it was the beta version of the logo, and the meaning behind the logo was "Harlem Boss". The post also made 3 years logo. 
+
 
 ## 4) PLOT-TWIST 
 
 ```
-Afer found the solid evidence about the fake poster and the existance of the company, we confront the approacher and response from the approacher shock me. Let discuss : 
+Afer found the solid evidence about the fake poster and the existance of the company, we confront the approacher and response from the approacher shock us. Let discuss : 
 ```
 
 #### I.  THE APPORACHER WAS ALSO APPROACH BY SOMEONE ELSE ? 
+
+> The approacher said she was approach by someone from this so called company offered her to work as their agent responsible to find people to work as a model for them, and will be paid (commission). Due to festive season (Hari Raya Festival), she agree to this offer since she need the extra money. 
+
+> The approacher mentioned that the fake company ask her to change her telegram and TikTok account became as like the account was own be the fake company and ask her to provide the account to them.
+
+> Luckily she was release of this scam operation and not giving out her TikTok and Telegram account yet.
+
+
+## 5. LESSON 
+
+### I. OBJECTIVE OF THIS SCAM OPERATION 
+
+```
+1. Misuse Victim User - The details obtained from the victim could be use for others scam operation or be sell to another scammer or cybercriminal. 
+2. Stole Victim social media credentials - The real scammers ask the approacher to change her media social to the so fake company representive and ask her to give the account to them. 
+3. Mlicious misrepresentation or digital fraud - use the victim image to harm others or pretend like one to scam others or maybe edit or use the image for blackmail or wrong purposes. 
+```
+
+### II. COMMUNITY ADVISOR SERVICES. 
+
+```
+1. DO not fall or believe to any offer or job that can you give an easy money. especially when it come to festival season or in emergency situation. There is no such as easy money,
+You have to work for it.
+
+2. Make sure to do research of the companies or the job first before accepting it. 
+```
+
+
 
 
 
