@@ -5,7 +5,7 @@ tags: [OSINT, INVESTIGATION, SCAMMER]
 image: /assets/thumbnails/investigate.jpg
 ---
 
-A Walkthrough oh how OSINT help to expose and reveal the truth behind Modelling Scam operation (Real Event).
+A walkthrough on how OSINT knowledge help to expose and reveal scam or fake operation and why is it important to do some research before believe in what you saw in social media or internet. 
 
 
 ## DISCLAIMER
@@ -15,24 +15,22 @@ A Walkthrough oh how OSINT help to expose and reveal the truth behind Modelling 
 2) Any name or images used in this blog, is the real evidence use by the scammer, if it owned by others company do contact me for credit.  
 ```
 
-## SYNOPSIS
+## ACKNOWLEDGEMENT TO THE CASE.
 
-> On March 2025, one of my contact (Victim) TikTok account was approached by someone that offered her a job to be a model for their new startup clothing brand companies that will release their first design in a few days. As student of fashion design and active tiktok user, being approached and offered to became a model of a clothing brand should be a good experience for her carreer. So she accept the offer and the conversation was continued on Telegram. Luckily the victim was busy with her training so the conversation was drag for quite sometime until she met me. In this cases, she seeked for my help to make sure the job offer is legit and not some scamming operation. So here is the step by step and method that I take to reveal the truth behind this operation (Include Plotwist). 
+> On March 2025, one of my contact (Victim) TikTok account was approached by someone that offered her a job to be a model for their new startup clothing brand companies that will release their first design in a few days. As student of fashion design and active tiktok user, being approached and offered to became a model of a clothing brand should be a good experience for her experience and porfloio. So she accept the offer and the conversation was continued on Telegram. Luckily the victim was busy with her training so the conversation was drag for quite sometime until she met me. In this cases, she seeked for my help to make sure the job offer is legit and not some scamming operation. So here is the step by step and method that I take to reveal the truth behind this operation (Include Plotwist). 
 
-> Method used : Image Analyst, SOCMINT, Open Source Information Gathering, interrogation
-
-## 1) WHAT MAKE THE  VICTIM FALL FOR THE JOB OFFERS? 
+## WHAT MAKE THE  VICTIM FALL FOR THE JOB OFFERS? 
 
 ### I. THE DEDICATION OF THE APPROACHER. 
 > The approacher willing to wait for the victim confirmation. The victim was busy with her volleyball training, that cause the conversation being drag for about 2 days. The approacher could just went to find other person because why not? fast respond fast money. That kind of method could lead the victim to think that "They really want me" or "I got the talent" syndrome. 
 
 ### II. THE JOB PAYMENTS 
-> The jobs offers 3 workings days with the total payment : Ringgit Malaysia (RM) 1150. Intresting and good offer indeed since with that amount, it could be someone else part time monthly salary. Even more to the offer goes to a students.
+> The jobs offers 3 workings days with the total payment : Ringgit Malaysia (RM) 1150. Intresting and good offer indeed since with that amount, it could be someone else part time monthly salary. Even more the offer goes to a students.
 
 ### III. PRETEND TO REALLY SEND THEIR DESIGN TO THE VICTIM 
-> The approacher send a few design of their first batch and ask the victim to choose 3 of them and will be send to the victim in 2 days. This action will help to gain the trust from the victim and made her believe that the company is real.
+> The approacher send a few design of their first batch and ask the victim to choose 3 of them and will be send to the victim in 2 days. This action will help to gain the trust from the victim and made her believe that the job offer was a real deal.
 
-## 2) WHAT "OFF" REGARDING THE JOB OFFERS & THE COMPANY
+## WHAT "OFF" REGARDING THE JOB OFFERS & THE COMPANY
 
 ### I. COMPANY NAMES IN THE INVOICE AND TELEGRAM HANDLE IS DIFFERENT. 
 > Refer the image below, the approacher mentioned the company name was `HCBC Clothing` meanwhile in the invoice state as `HSBC Clothing`.
