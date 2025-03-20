@@ -22,7 +22,7 @@ A walkthrough on how OSINT knowledge helps to expose and reveal scams or fake op
 
 #### I. COMPANY NAME DISCREPANCY IN THE INVOICE AND TELEGRAM HANDLE. 
 
-![image](https://github.com/user-attachments/assets/a7e905ad-d9de-4667-919d-5dc43f1c9d7c)
+
 
 > Refer to the image provided: the scammer mentioned the company name as `HCBC Clothing`, while the invoice stated `HSHC Clothing`.
 
