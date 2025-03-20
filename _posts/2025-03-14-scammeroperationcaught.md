@@ -5,119 +5,111 @@ tags: [OSINT, INVESTIGATION, SCAMMER]
 image: /assets/thumbnails/investigate.jpg
 ---
 
-A walkthrough on how OSINT knowledge help to expose and reveal scam or fake operation and why is it important to do some research before believe in what you saw in social media or internet. 
+A walkthrough on how OSINT knowledge helps to expose and reveal scams or fake operations and why it is important to do some research before believing what you see on social media or the internet. 
 
 
 ## DISCLAIMER
-
 ```
 1) All of the details and chat between the victim and scammer will be sensored due to privacy purpose.
 2) Any name or images used in this blog, is the real evidence use by the scammer, if it owned by others company do contact me for credit.  
 ```
 
-## ACKNOWLEDGEMENT TO THE CASE.
 
-> On March 2025, one of my contact (Victim) TikTok account was approached by someone that offered her a job to be a model for their new startup clothing brand companies that will release their first design in a few days. As student of fashion design and active tiktok user, being approached and offered to became a model of a clothing brand should be a good experience for her experience and porfloio. So she accept the offer and the conversation was continued on Telegram. Luckily the victim was busy with her training so the conversation was drag for quite sometime until she met me. In this cases, she seeked for my help to make sure the job offer is legit and not some scamming operation. So here is the step by step and method that I take to reveal the truth behind this operation (Include Plotwist). 
+### ACKNOWLEDGEMENT OF THE CASE.
 
-## WHAT MAKE THE  VICTIM FALL FOR THE JOB OFFERS? 
+> In March 2025, one of my contacts (Victim) had her TikTok account approached by someone offering her a modeling job for their new startup clothing brand, which was set to release its first designs in a few days. As a fashion design student and active TikTok user, being approached and offered a modeling job should have been a great experience for her portfolio. So, she accepted the offer, and the conversation continued on Telegram. Luckily, the victim was busy with her training, so the conversation dragged on for quite some time until she met me. In this case, she sought my help to verify whether the job offer was legitimate or a scam. Below is the step-by-step method I used to reveal the truth behind this operation (including a plot twist). 
 
-### I. THE DEDICATION OF THE APPROACHER. 
-> The approacher willing to wait for the victim confirmation. The victim was busy with her volleyball training, that cause the conversation being drag for about 2 days. The approacher could just went to find other person because why not? fast respond fast money. That kind of method could lead the victim to think that "They really want me" or "I got the talent" syndrome. 
+### WHAT MADE THE VICTIM FALL FOR THE JOB OFFER? 
 
-### II. THE JOB PAYMENTS 
-> The jobs offers 3 workings days with the total payment : Ringgit Malaysia (RM) 1150. Intresting and good offer indeed since with that amount, it could be someone else part time monthly salary. Even more the offer goes to a students.
+#### I. THE DEDICATION OF THE SCAMMER. 
+> The scammer was willing to wait for the victim's confirmation. Since the victim was busy with her volleyball training, the conversation dragged on for about two days. The scammer could have just found someone else—why wait? Fast responses mean fast money. This method could lead the victim to think, *"They really want me"* or *"I have the talent"* syndrome. 
 
-### III. PRETEND TO REALLY SEND THEIR DESIGN TO THE VICTIM 
-> The approacher send a few design of their first batch and ask the victim to choose 3 of them and will be send to the victim in 2 days. This action will help to gain the trust from the victim and made her believe that the job offer was a real deal.
+#### II. THE JOB PAYMENT 
+> The job offered three working days with a total payment of Ringgit Malaysia (RM) 1150. An interesting and attractive offer indeed, as that amount could be someone else's monthly part-time salary. Even more so, since the offer was made to a student.
 
-## WHAT "OFF" REGARDING THE JOB OFFERS & THE COMPANY
+#### III. PRETENDING TO SEND DESIGN SAMPLES 
+> The scammer sent a few designs of their first batch and asked the victim to choose three of them, claiming they would be shipped to her in two days. This action helped gain the victim’s trust and made her believe the job offer was real.
 
-### I. COMPANY NAMES IN THE INVOICE AND TELEGRAM HANDLE IS DIFFERENT. 
-> Refer the image below, the approacher mentioned the company name was `HCBC Clothing` meanwhile in the invoice state as `HSBC Clothing`.
+### RED FLAGS REGARDING THE JOB OFFER & COMPANY
 
-### II. NO SOCIAL MEDIA. 
-> When asking about the company details such as social media, the approacher mentioned that, they not yet have social media and said that the social media will be created or promoted during the launching.
+#### I. COMPANY NAME DISCREPANCY IN THE INVOICE AND TELEGRAM HANDLE. 
+> Refer to the image below: the scammer mentioned the company name as `HCBC Clothing`, while the invoice stated `HSBC Clothing`.
 
-### III. THE "NOT MAKE SENSE" PROCEDURE. 
-> The approacher said that the cloths will be send to the victim in a 2 days ahead, but she mentioned that the company also would like to do the presentation to look how the model in the cloths also in 2 days. The victim has sent the picture but the picture is not suitable for editing. So they requested video call session with the victim and the will do an edit from the video call known as "VC Editing" 
+#### II. NO SOCIAL MEDIA PRESENCE. 
+> When asked about the company’s details, such as social media, the scammer claimed they didn’t have any yet and that social media would be created and promoted during the launch.
 
-### IV. CENSORED BUSINESS REGISTRATION NUMBER. 
-> The victim ask for the company registration numbers, the approacher provide the company registration cert but only leave the `2 first digit`. When ask why they covered it, the mentioned for that for security and avoid risk purposes.
+#### III. ILLOGICAL PROCEDURES. 
+> The scammer claimed that the clothes would be shipped to the victim in two days but also said that the company wanted to do a presentation to see how the model looked in the clothes—also within two days. The victim sent a picture, but the scammer said it wasn’t suitable for editing. They then requested a video call session with the victim, saying they would edit from the video call footage, a method they called "VC Editing."
 
-## 3) DEEP ANALYSIS 
+#### IV. CENSORED BUSINESS REGISTRATION NUMBER. 
+> When the victim asked for the company’s registration number, the scammer provided a certificate but only revealed the first two digits. When questioned about this, they claimed it was for security and risk prevention purposes.
 
+### DEEP ANALYSIS 
 ```
-Due to the lack of evidence and suspicious of the company existance and job offers, we can already detected it as a scam or just "Ghost" them. But in my cases, i just want to investigate it a little bit deeper, and make sure all of them walk with the truth. 
+Due to the lack of evidence and the suspicious nature of the company and job offer, we could have already identified it as a scam or simply ghosted them. However, in my case, I wanted to investigate deeper and ensure the truth was uncovered. 
 ```
 
 ### I. ANALAYZE THE COMPANY BUSINESS REGISTATRION CERTIFICATE. 
 ```
-On the Business registration certificate, using the business registration number (SSM) we can verify the company existence and make sure the companies was legit. But in this cases, the registation numbers was censored and we cannot do some searching. But here a few mistakes from the scammer.
+Using the business registration number (SSM), we can verify a company’s existence and legitimacy. However, in this case, the registration number was censored, preventing us from searching for it. But here are a few mistakes the scammer made.
 ```
 
-####  - UNCENSORED COMPANY FULL NAME
+##### - UNCENSORED COMPANY FULL NAME
 
-> Throughout the whole conversation, the approacher never mentioned the full name of the company but from the cert we can clearly see the company name which is "HCBC Clothing Enterprise". Using  [Malaysian Corporate Information Databses](https://www.mydata-ssm.com.my/homePage), we can find open information regarding the registered company with just the company name. Searching for the companies name, the databases return zero result which mean the companies with the name of "HCBC Clothing Enterprise" is not even exist or registered.
+> Throughout the whole conversation, the scammer never mentioned the full company name. However, on the certificate, we could clearly see "HCBC Clothing Enterprise." Using [Malaysian Corporate Information Databases](https://www.mydata-ssm.com.my/homePage), we searched for this name. The database returned zero results, meaning no such company existed or was registered.
 
-#### - OUTDATED AUTHORITY/BUSINESS REGISTRAR SIGN. 
+##### - OUTDATED AUTHORITY/BUSINESS REGISTRAR SIGNATURE. 
 
-> From the image we can see the registrar in charge to sign the cert is "Name", but the approacher mentioned the company is new and just want to launch their first product in this year which is 2025. for you information, "Registrat name" contracted was end on september 2020, 5 years ago, the current registrar in charge was "new registrat name". How was the new built company and will launch first product have a 2020 and below business registration certificate. Business certification cert expired date in 5 years and need to be renew.
+> The certificate showed that the registrar in charge was "Dato Zahrah Abd Wahab Fenner," but the scammer claimed the company was new and about to launch its first product in 2025. However, "Dato Zahrah Abd Wahab Fenner’s" contract ended in September 2020—five years ago. The current registrar is "Dr. Azman Bin Hussin." How could a newly formed company launching its first product have a certificate signed by a registrar from five years ago? Business registration certificates expire in five years and need renewal.
 
 ### II. STOLEN CLOTHS DESIGN POSTER. 
 ```
-Remember the poster of the couples of design of their new launch, i do some analyze from the image and found a quite intresting found. 
+Remember the poster with the designs for the supposed launch? I analyzed the image and obtain intersiting finding :.
 ```
 
-#### - DESIGN OWNED BY OTHERS BRAND AND RELEASED 1 YEARS AGO. 
+##### - DESIGN OWNED BY ANOTHER BRAND AND RELEASED A YEAR AGO. 
 
-> Reverse image the poster, resulted an instagram account that post the exact same image with the exact same design from the poster that the approacher or scammers sent.
+> A reverse image search led to an Instagram account that had posted the exact same image and designs sent by the scammer.
 
+> Visiting the Instagram account, we found that the clothing brand belonged to another company, "[Company Name]."
 
-> Visit the instagaram account, we can see the aircond owned by others company known as "Company Name"
-
-> The post was made on Mar 2024.
+> The post was made in March 2024.
 
 ### III. COMPANIES LOGO.
 ```
-The profile picture of the company logo was blurry, so I decide to reverse image the logo
+The company logo in the scammer’s profile picture was blurry, so I performed a reverse image search.
 ```
-
-#### - LOGO OWNED BY SOMEONE ELSE. 
-> Found a reddit post that post the exact the same logo and the owner mentioned it was the beta version of the logo, and the meaning behind the logo was "Harlem Boss". The post also made 3 years logo. 
-
+##### - LOGO OWNED BY SOMEONE ELSE. 
+> I found a Reddit post featuring the exact same logo. The original designer stated it was a beta version of a logo representing "Harlem Boss," posted three years ago.
 
 ## 4) PLOT-TWIST 
 
 ```
-Afer found the solid evidence about the fake poster and the existance of the company, we confront the approacher and response from the approacher shock us. Let discuss : 
+After gathering solid evidence about the fake poster and nonexistent company, we confronted the scammer. Their response shocked us. Let’s discuss:
 ```
+##### I. THE SCAMMER WAS ALSO A VICTIM? 
 
-#### I.  THE APPORACHER WAS ALSO APPROACH BY SOMEONE ELSE ? 
+> The scammer claimed she had been approached by someone from this fake company offering her a job as an agent responsible for recruiting models. She would be paid on commission. Since it was the festive season (Hari Raya Festival), she accepted the offer to earn extra money.
 
-> The approacher said she was approach by someone from this so called company offered her to work as their agent responsible to find people to work as a model for them, and will be paid (commission). Due to festive season (Hari Raya Festival), she agree to this offer since she need the extra money. 
+> The scammer mentioned that the fake company had asked her to change her Telegram and TikTok accounts to look like official company accounts and hand them over.
 
-> The approacher mentioned that the fake company ask her to change her telegram and TikTok account became as like the account was own be the fake company and ask her to provide the account to them.
-
-> Luckily she was release of this scam operation and not giving out her TikTok and Telegram account yet.
-
+> Fortunately, she hadn’t yet given up her TikTok and Telegram accounts, allowing her to break free from the scam operation.
 
 ## 5. LESSON 
 
 ### I. OBJECTIVE OF THIS SCAM OPERATION 
 
 ```
-1. Misuse Victim User - The details obtained from the victim could be use for others scam operation or be sell to another scammer or cybercriminal. 
-2. Stole Victim social media credentials - The real scammers ask the approacher to change her media social to the so fake company representive and ask her to give the account to them. 
-3. Mlicious misrepresentation or digital fraud - use the victim image to harm others or pretend like one to scam others or maybe edit or use the image for blackmail or wrong purposes. 
+1. Misuse of Victim’s Data - Personal details obtained could be used for other scams or sold to cybercriminals.
+2. Theft of Social Media Credentials - The scammer attempted to gain control of social media accounts for further fraud. 
+3. Digital Fraud and Blackmail - The scammer could use victims’ images for impersonation, blackmail, or malicious purposes.
 ```
 
 ### II. COMMUNITY ADVISOR SERVICES. 
 
 ```
-1. DO not fall or believe to any offer or job that can you give an easy money. especially when it come to festival season or in emergency situation. There is no such as easy money,
-You have to work for it.
-
-2. Make sure to do research of the companies or the job first before accepting it. 
+1. Do not fall for job offers promising easy money, especially during festive seasons or emergencies. There is no such thing as easy money; you have to work for it.
+2. Always research the company and job offer before accepting anything.
 ```
 
 
