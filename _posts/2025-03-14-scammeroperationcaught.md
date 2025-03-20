@@ -56,6 +56,8 @@ Using the business registration number (SSM), we can verify a company’s existe
 
 ##### - UNCENSORED COMPANY FULL NAME
 
+![Companyname](https://github.com/user-attachments/assets/8ed15f48-0141-4d4e-ab5d-076881625855)
+
 > Throughout the whole conversation, the scammer never mentioned the full company name. However, on the certificate, we could clearly see "HCBC Clothing Enterprise." Using [Malaysian Corporate Information Databases](https://www.mydata-ssm.com.my/homePage), we searched for this name. The database returned zero results, meaning no such company existed or was registered.
 
 ##### - OUTDATED AUTHORITY/BUSINESS REGISTRAR SIGNATURE. 
