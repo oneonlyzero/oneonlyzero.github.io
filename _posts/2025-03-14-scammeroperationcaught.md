@@ -33,7 +33,7 @@ A walkthrough on how OSINT knowledge helps to expose and reveal scams or fake op
 ### RED FLAGS REGARDING THE JOB OFFER & COMPANY
 
 #### I. COMPANY NAME DISCREPANCY IN THE INVOICE AND TELEGRAM HANDLE. 
-> Refer to the image below: the scammer mentioned the company name as `HCBC Clothing`, while the invoice stated `HSBC Clothing`.
+> Refer to the image below: the scammer mentioned the company name as `HCBC Clothing`, while the invoice stated `HSHC Clothing`.
 
 #### II. NO SOCIAL MEDIA PRESENCE. 
 > When asked about the company’s details, such as social media, the scammer claimed they didn’t have any yet and that social media would be created and promoted during the launch.
