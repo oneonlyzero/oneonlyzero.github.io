@@ -1,6 +1,6 @@
 ---
-title: Start With Stealth Mole - Reach new frontiers of dark web intelligence
+title: StealthMole-AI Powered Dark Web TI Tools 
 categories: [Blog]
-tags: [Tools,OSINT,Dark Web]
-image: /assets/thumbnails/stealhmolelogo.png
+tags: [Tools,Dark Web, Threat Intelligence]
+image: /assets/thumbnail/stealhmolelogo.png
 ---
