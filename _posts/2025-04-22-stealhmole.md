@@ -54,5 +54,7 @@ Last but not least thanks to Louis Hur, CEO of StealthMole, and the entire Steal
 
 
 ```
-For those whos interested to trying Stealth Mole, you could reach them via their offical website or Louis Hur.  
+For those whos interested to trying Stealth Mole, you can login to their official platform for free but limited features.
+If you would like to get a free trial, you may reach them via official website or reach personaly to their staff.
+tq for your time :3 
 ```
