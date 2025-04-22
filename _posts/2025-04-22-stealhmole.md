@@ -18,13 +18,17 @@ After experienced the platform for about one week, I could tell you that this to
 
 ### Tools 
 
-> Although they create a platform that Ai powered focusing on dark web technologies, they also built in others tools that might help in you information gathering regarding the subject. 
+Other than focusing on the darkweb tracker, there are also others tools that can be use to help, expand and improve our investigation. Tools provided such as :
+
+```
+
+```
 
 ### Canvas 
 
-> On the tools interface, we'll be provided a blanks canvas that can be use to record and connect dot by dot of our finding on our `subject/target`.
+On the tools interface, we'll be provided a blanks canvas that can be use to record and connect dot by dot of our finding on our `subject/target`.
 
-### 
+###d
 
 
 
