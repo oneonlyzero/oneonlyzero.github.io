@@ -1,11 +1,11 @@
 ---
-title: Ai Powered Dark Web intelligence Tools - StealthMole
+title: Ai Powered Dark Web intelligence - StealthMole
 categories: [Blog]
 tags: [Tools,OSINT,ThreatIntell]
 image: /assets/thumbnails/stealhmolelogo.png
 ---
 
-## About Stealth Mole 
+## About Stealth Mole :
 
 `StealthMole` is a deep and dark web threat intelligence company that delivers a cloud-based, unified platform for digital investigation, risk assessment, and threat monitoring. Using AI, they provide governments, law enforcement agencies, and enterprises with powerful tools and threat intelligence critical to identifying and eliminating digital risk and criminal activity.
 
@@ -107,5 +107,5 @@ Defacement Alert helps to monitor websites that have been defaced by hackers
 
 Last but certainly not least, I want to extend my sincere thanks to [StealhMole](https://www.stealthmole.com/) and it's CEO, [Mr Louis Hur](https://www.linkedin.com/in/louis-hur-87313019/) for giving me the opportunity to explore the Pro version of their platform. It’s an incredible privilege to experience the full potential of such a powerful tool :3. 
 ```
-For those who's interested to trying Stealth Mole, you can direclty register to their official website. you can either register as free member with limited function or pro version to enjoy all features mentioned above. 
+For those who's interested to try Stealth Mole, you can direclty register to their official website. you can either register as free member with limited function or pro version to enjoy all features mentioned above. 
 ```
