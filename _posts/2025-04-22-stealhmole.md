@@ -54,7 +54,14 @@ Indicators of Leakage provides sets of data relevant to specific data leaks, hac
 
 Once you create your own investigation casesm beside the tools, you'll will be provide a blank canvas, that can be use to record and track all the details regarding your investigation. And its was really easy to use.
 
-> Once again, search for any keyword, wait for the result. On the result you can preview each of the finding first. Once you confirm that the finding related to your `subject/target`. Click "+" icon beside the finding and it willl automatically connect the finding to your `subject/target` inside the canvas. 
+![Tools (2) (1)](https://github.com/user-attachments/assets/24b333dc-3e9e-443c-82b3-847cfb34dce1)
+
+> Once you start your searching, the keyword use for the search will automatically added in the canvas, that will indicate as the `beginning/title` of the investigation.
+
+![canvas (1)](https://github.com/user-attachments/assets/223b0035-9435-4454-8c53-48ad2f117415)
+
+> You can add the finding or information from the result of your searching inside the canvas, by click the "+" icon beside the 
+
 
 ## Monitoring 
 
