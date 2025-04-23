@@ -5,6 +5,8 @@ tags: [Tools,OSINT,ThreatIntell]
 image: /assets/thumbnails/stealhmolelogo.png
 ---
 
+## About Stealth Mole 
+
 `StealthMole` is a deep and dark web threat intelligence company that delivers a cloud-based, unified platform for digital investigation, risk assessment, and threat monitoring. Using AI, they provide governments, law enforcement agencies, and enterprises with powerful tools and threat intelligence critical to identifying and eliminating digital risk and criminal activity.
 
 After experienced the platform for about one week, I could tell you that this tools is helpfull in your investigation, threat intelligence and information gathering especialy if you are in the related field, here's why : 
@@ -15,7 +17,7 @@ After experienced the platform for about one week, I could tell you that this to
 
 Huge thanks to StealthMole for developing such a user-friendly and minimalist platform. As someone who’s new to this field, I truly appreciate how intuitive and accessible the interface is. From the moment I started using it, I didn’t face any difficulties — everything felt smooth, well-designed, and easy to navigate. 
 
-with no such of pack and eye sore design, this platform could be categories as beginner friendly. It’s made my learning experience much more enjoyable and less intimidating. Great job to the team for creating a tool that genuinely supports beginners!It’s made my learning experience much more enjoyable and less intimidating. Great job to the team for creating a tool that genuinely supports beginners!
+with no such of pack and eye sore design, this platform could be categories as beginner friendly. It’s made my learning experience much more enjoyable and less intimidating. Great job to the team for creating a tool that genuinely supports beginners!
 
 ## The Features & Capabilites. 
 
