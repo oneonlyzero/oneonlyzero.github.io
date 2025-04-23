@@ -9,13 +9,21 @@ image: /assets/thumbnails/stealhmolelogo.png
 
 After experienced the platform for about one week, I could tell you that this tools is helpfull in your investigation, threat intelligence and information gathering especialy if you are in the related field, here's why : 
 
+## Platform Interface 
+
+![image (2) (1)](https://github.com/user-attachments/assets/62c8dadc-d110-430f-b8d1-a4d353dd068a)
+
+Huge thanks to StealthMole for developing such a user-friendly and minimalist platform. As someone who’s new to this field, I truly appreciate how intuitive and accessible the interface is. From the moment I started using it, I didn’t face any difficulties — everything felt smooth, well-designed, and easy to navigate. 
+
+with no such of pack and eye sore design, this platform could be categories as beginner friendly. It’s made my learning experience much more enjoyable and less intimidating. Great job to the team for creating a tool that genuinely supports beginners!It’s made my learning experience much more enjoyable and less intimidating. Great job to the team for creating a tool that genuinely supports beginners!
+
 ## The Features & Capabilites. 
 
 ### Tools 
 
 ![Tools (1)](https://github.com/user-attachments/assets/eb32d698-f34b-4fbe-8bbd-cd95018846ae)
 
-StealthMole provide various service and tools that help to gains multiple information such as image, leak document, url and etc for the dark deep web. such as : 
+StealthMole provide various service and tools that help to gains multiple information such as image, leak document, url and etc from the dark deep web. such as : 
 
 ```
 Darkweb Tracker (Pro)
@@ -46,25 +54,36 @@ Indicators of Leakage
 Indicators of Leakage provides sets of data relevant to specific data leaks, hacking incidents, or issues arising across hidden networks.
 ```
 
-> I've tried all the tools, and my favourite was the `Dark Web Tracker`. With just a simple keyword or query on the search bar, I get a lots of information and source regarding the `target/subject` that scattered all over the dark deep web within just a minute. As you can see below, from one search, we get doucments, image, url, and also the posting related to the `target/subject`. Instead of fire up your `Tor` and manually do your search, this features could help saving your time or if you missing some important finding or details this could help you too :D.
+> Out of all the tools I explored, my favorite by far was the Dark Web Tracker. It’s surprisingly powerful—just type in a keyword or phrase, and within seconds, it pulls in a ton of information from across the dark and deep web. No need to fire up Tor or sift through shady forums manually.What really impressed me was how comprehensive the results were. From a single search, I got documents, images, URLs, and related posts—all tied to the subject I was investigating. It’s a serious time-saver, especially if you’re worried about missing key details during manual digging.
 
+![Untitled design (1)](https://github.com/user-attachments/assets/8daf7a80-1413-47b6-8e78-7b279d55a10d)
 
+> Before diving into the full details of a finding, you can quickly preview it by clicking on its title. The preview pops up right in the main canvas, giving you a snapshot of the content without needing to open it in a new tab or window. Super convenient when you're skimming through a lot of results.
+Check out the image below to see how it works in action:
 
-## Canvas 
+![The Preview - (1)](https://github.com/user-attachments/assets/637c273a-518d-46c4-9ce5-85095c188dc8)
 
-Once you create your own investigation casesm beside the tools, you'll will be provide a blank canvas, that can be use to record and track all the details regarding your investigation. And its was really easy to use.
+### Canvas 
+
+Once you create a new investigation case, you’re given a blank canvas to work with. This space is where you can log all your findings, track details, and organize your thoughts throughout the investigation. It’s surprisingly intuitive and easy to use—kind of like having a digital notebook tailored for OSINT work.
 
 ![Tools (2) (1)](https://github.com/user-attachments/assets/24b333dc-3e9e-443c-82b3-847cfb34dce1)
 
-> Once you start your searching, the keyword use for the search will automatically added in the canvas, that will indicate as the `beginning/title` of the investigation.
+> When you start searching, the keywords you use are automatically added to your canvas. Each keyword, subject, or target gets its own dedicated note, so your findings stay organized and separate. Nothing gets merged or mixed up, which makes it super easy to keep track of what belongs to which search.
 
 ![canvas (1)](https://github.com/user-attachments/assets/223b0035-9435-4454-8c53-48ad2f117415)
 
-> You can add the finding or information from the result of your searching inside the canvas, by click the "+" icon beside the 
+> If you confirm that a finding is relevant, you can easily add it to your canvas by clicking the “+” icon next to the result. It’ll instantly be saved and linked to the specific subject, target, or keyword it’s associated with. No copy-pasting or manual organizing—everything stays connected and tidy, making your investigation process way more efficient.
 
+![Untitled design (2) (1)](https://github.com/user-attachments/assets/0a3155ce-fa84-4b35-9795-ac86b6b0b84e)
 
-## Monitoring 
+> The image below shows an example of a real-life case and how the canvas helps organize the investigation. It really shines when you're dealing with multiple subjects, targets, or keywords—everything stays structured and easy to follow.
 
+![image (1)](https://github.com/user-attachments/assets/05e8106e-bc24-4416-8a1d-8ede6724fd32)
+
+### Monitoring 
+
+The platform also offers a range of monitoring tools designed to keep you updated on active threat actors, ransomware, RCEs, and other cybersecurity threats. These tools are regularly updated to reflect real-world developments, ensuring you’re always in the loop. This feature is invaluable for cybersecurity professionals and organizations looking to stay one step ahead, preparing and defending against emerging threats in real-time.
 
 ```
 Ransomware Monitoring
@@ -80,34 +99,11 @@ Defacement Alert
 Defacement Alert helps to monitor websites that have been defaced by hackers
 ```
 
+![Untitled design (1)](https://github.com/user-attachments/assets/0a0e50d0-685e-45f8-b705-4b440153646e)
 
+## Appreciation 
 
-
-
-
-
-
-Although StealthMole is an Ai powered Dark Web Intelligence, they also provided others tools for such as Telegram Tracker, Compromised Data Set 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Last but not least thanks to Louis Hur, CEO of StealthMole, and the entire StealthMole team for giving me the opportunity to explore the Pro version of their platform. It’s been an insightful experience diving into the tools and capabilities they’ve built. 
-
-
+Last but certainly not least, I want to extend my sincere thanks to [StealhMole](https://www.stealthmole.com/) and it's CEO, [Mr Louis Hur](https://www.linkedin.com/in/louis-hur-87313019/) for giving me the opportunity to explore the Pro version of their platform. It’s an incredible privilege to experience the full potential of such a powerful tool :3. 
 ```
-For those whos interested to trying Stealth Mole, you can login to their official platform for free but limited features.
-If you would like to get a free trial, you may reach them via official website or reach personaly to their staff.
-tq for your time :3 
+For those who's interested to trying Stealth Mole, you can direclty register to their official website. you can either register as free member with limited function or pro version to enjoy all features mentioned above. 
 ```
