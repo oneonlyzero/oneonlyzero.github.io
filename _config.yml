@@ -14,7 +14,7 @@ timezone: Asia/Kuala_Lumpur
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Z3roBuG # the main title
+title: Z3roo(OBug) # the main title
 
 tagline: Make decision wisely cause life could be like trojan sometime. # it will display as the sub-title
 
@@ -34,11 +34,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Z3roBuG
+  name: Z3roo(0Bug)
   email: peacefull.work@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/aepulzaini_ # change to your twitter homepage
+    # https://twitter.com/aepulzaini_ # change to your twitter homepage
     - https://github.com/oneonlyzero # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
