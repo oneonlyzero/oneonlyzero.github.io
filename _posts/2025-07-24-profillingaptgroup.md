@@ -2,7 +2,7 @@
 title: Profillin The APT Behind Multiple Corporate Hacking - DESORDEN GROUP @ ChaosCc. 
 categories: [Investigation]
 tags: [CTF,APT]
-image: /assets/thumbnails/L3ak_CTF_2025_Logo.png
+image: /assets/thumbnails/0buggdoingwut.png
 ---
 
 <img width="1689" height="1068" alt="image" src="https://github.com/user-attachments/assets/76216768-a00d-49d7-b0fb-3958295b6242" />
