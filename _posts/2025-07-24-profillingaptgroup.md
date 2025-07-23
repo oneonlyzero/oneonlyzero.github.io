@@ -22,3 +22,7 @@ Due to the time the post was made, is the same years of the breached happen. The
 
 <img width="1411" height="802" alt="image" src="https://github.com/user-attachments/assets/8a2a3128-058d-4d45-8c01-cf18083f2be3" />
 
+This snapshot was obtain from one telegram message from channel known as @TheJacuzziOfficial, the user or channel was no longer exist. From the messages, show the link of the sample stolen data upload in the anonfiles share website and personal information of the key management team of the Bintulu Port Berhad including their CEO, Secetary and Coo. 
+
+
+
