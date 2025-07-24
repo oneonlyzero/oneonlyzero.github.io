@@ -2,7 +2,7 @@
 title: Tryout StealthMole an Ai Powered Dark Web intelligence. 
 categories: [Blog]
 tags: [Tools,OSINT,ThreatIntell]
-image: /assets/thumbnails/stealhmolelogo.png
+image: /assets/thumbnails/stealhmole.png
 ---
 
 ## About Stealth Mole :
